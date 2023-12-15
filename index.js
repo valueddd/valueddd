@@ -56,7 +56,7 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on("listening", () => {
-  console.log(`Doge Unblocker running at port 8000`);
+  console.log(`Valued Unblocker running at port 8000`);
 });
 
 server.listen({
